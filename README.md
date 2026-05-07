@@ -45,17 +45,23 @@ Soy una estudiante de **Ingeniería en Desarrollo de Software** (9no cuatrimestr
   <img src="https://capsule-render.vercel.app/api?type=rect&color=bf94ff&height=2&section=header" width="100%" />
 </p>
 
-## 📈 Actividad y Estadísticas
+### 📈 Actividad y Estadísticas
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aqnkrl&show_icons=true&theme=dracula&hide_border=true&title_color=bf94ff&icon_color=bf94ff&text_color=ffffff" />
-  <img width="46.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aqnkrl&theme=dracula&hide_border=true&ring=bf94ff&fire=bf94ff&sideLabels=bf94ff" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=aqnkrl&show_icons=true&theme=dracula&hide_border=true&title_color=bf94ff&icon_color=bf94ff" />
+
+<img width="46.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aqnkrl&theme=dracula&hide_border=true&ring=bf94ff&fire=bf94ff" />
+
 </p>
+
+
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=bf94ff&height=2&section=header" width="100%" />
-</p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=bf94ff&height=2&section=header" width="100%" />
+
+</p>
 ## 🤝 Contacto
 
 <p align="center">
