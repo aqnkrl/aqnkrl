@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=bf94ff&height=200&section=header&text=Karla%20López%20Aquino&fontSize=50&animation=fadeIn&fontAlignY=35" alt="Header" />
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=El%20código%20es%20como%20el%20humor.%20Si%20tienes%20que%20explicarlo,%20es%20malo." alt="Quote" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=bf94ff&height=2&section=header" width="100%" />
